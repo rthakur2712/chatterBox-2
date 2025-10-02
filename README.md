@@ -3,6 +3,11 @@
 
 
 
+## GIFs
+
+
+![me](https://github.com/rthakur2712/chatterBox-2/blob/main/Chatter-boxWorkingVideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif)
+
 
 GIFs are attached at the end.
 
@@ -53,7 +58,3 @@ To run this project locally, follow these steps:
 7. The application will be accessible at `http://localhost:3000`.
 
 Please make sure to keep the `serviceAccountKey.json` file and sensitive information secure and not commit them to version control.
-
-## GIFs
-
-
